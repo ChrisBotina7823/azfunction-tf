@@ -45,6 +45,14 @@ La url se tiene como output
 
 ![az group resource](<img/Captura de pantalla 2025-09-10 081349.png>)
 
-- Al acceder a la URL se puede observar que el código se ejecutó con éxito:
+- El az function
+
+![ az function portal ](<img/Captura de pantalla 2025-09-10 083705.png>)
+
+- El dominio corriendo se ve en el azure portal
+
+![az function domain](<img/Captura de pantalla 2025-09-10 083655.png>)
+
+- Al acceder a la URL del output se puede observar que el código se ejecutó con éxito:
 
 ![http test](<img/Captura de pantalla 2025-09-10 081436.png>)
